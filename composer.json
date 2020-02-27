@@ -16,6 +16,6 @@
         "psr-4": { "noname007\\": "" }
     },
     "extra": {
-        "class": "noname007\\Plugin\\"
+        "class": "noname007\\Plugin"
     }
 }
