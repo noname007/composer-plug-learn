@@ -1,0 +1,21 @@
+{
+    "name": "noname007/composer-plug-learn",
+    "description": "learn",
+    "type": "composer-plugin",
+    "require": {
+        "composer-plugin-api": "^1.1",
+        "composer/composer": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "soul11201",
+            "email": "soul11201@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "noname007\\": "" }
+    },
+    "extra": {
+        "class": "noname007\\Plugin\\"
+    }
+}
